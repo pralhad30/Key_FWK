@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+       <File_Num ID="1">
+          <Flag>true</Flag >
+          <File>testsuite1.csv</File> 
+       </File_Num>
+       <File_Num ID="2">
+          <Flag>false</Flag >
+          <File>testsuite2.csv</File> 
+       </File_Num>   
+        
+</Root>
